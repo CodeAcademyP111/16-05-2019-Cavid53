@@ -1,0 +1,63 @@
+#newTab{
+    margin: 0 auto;
+    width: 700px;
+   
+
+}
+#newTab ul{
+    margin: 30px;
+}
+
+#newTab ul li{
+    display: inline-block;
+    width: 100px;
+    background: gray;
+    height: 30px;
+    text-align: center;
+    padding-top: 15px;
+    cursor: pointer;
+    margin-left: 5px;
+}
+    
+
+
+.information{
+    background: aqua;
+    margin: 20px;
+    height: 140px;
+    display: none;
+    margin-left: 35px;
+    padding: 8px;
+    border: 1px solid black;
+    
+
+}
+
+
+.newChangeOne{
+    display: block !important;
+    
+
+    
+}
+
+.newChangeTwo{
+    background-color:yellowgreen !important;
+    transition: all 1s;
+
+}
+#change1{
+    background:aqua;
+}
+
+#change2{
+    background: red;
+}
+
+#change3{
+    background: yellow;
+}
+
+#change4{
+    background: violet;
+}
